@@ -1,0 +1,15 @@
+C:\Documents and Settings\yop\Escritorio\pagina\botones\botoinicio\mb_nosotros.gif
+C:\Documents and Settings\yop\Escritorio\pagina\botones\botoinicio\mb_nosotros_1.gif
+C:\Documents and Settings\yop\Escritorio\pagina\botones\botoinicio\mb_nosotros_2.gif
+C:\Documents and Settings\yop\Escritorio\pagina\botones\botoinicio\mb_productos.gif
+C:\Documents and Settings\yop\Escritorio\pagina\botones\botoinicio\mb_productos_1.gif
+C:\Documents and Settings\yop\Escritorio\pagina\botones\botoinicio\mb_productos_2.gif
+C:\Documents and Settings\yop\Escritorio\pagina\botones\botoinicio\mb_servicios.gif
+C:\Documents and Settings\yop\Escritorio\pagina\botones\botoinicio\mb_servicios_1.gif
+C:\Documents and Settings\yop\Escritorio\pagina\botones\botoinicio\mb_servicios_2.gif
+C:\Documents and Settings\yop\Escritorio\pagina\botones\botoinicio\mb_contacto.gif
+C:\Documents and Settings\yop\Escritorio\pagina\botones\botoinicio\mb_contacto_1.gif
+C:\Documents and Settings\yop\Escritorio\pagina\botones\botoinicio\mb_contacto_2.gif
+C:\Documents and Settings\yop\Escritorio\pagina\botones\botoinicio\mbjsmb73g0.js
+C:\Documents and Settings\yop\Escritorio\pagina\botones\botoinicio\mbcsmb73g0.css
+C:\Documents and Settings\yop\Escritorio\pagina\botones\botoinicio\filelist_73g0.txt
